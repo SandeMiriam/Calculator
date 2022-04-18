@@ -1,0 +1,5 @@
+x=float(input("Enter your Height in m:"))
+y=float(input("Enter your Weight in Kg:"))
+z=y/x**2
+print("Your Body Mass Index is:",z)
+
